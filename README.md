@@ -1,1 +1,1 @@
-This is a activity that i did for test my knowledge of Linear Regression
+This is a activity that i did for test my knowledge of statistcs
